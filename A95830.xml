@@ -1,0 +1,160 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The manner of the proceedings in the courts of the great sessions in the counties of Mountgomery, Denbigh, and Flint; within North-Wales, as it now is. Published by R.V.</title>
+            <author>Vaughan, Rice.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1653</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 9 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A95830</idno>
+            <idno type="STC">Wing V134</idno>
+            <idno type="STC">Thomason E710_14</idno>
+            <idno type="STC">ESTC R203963</idno>
+            <idno type="EEBO-CITATION">99863718</idno>
+            <idno type="PROQUEST">99863718</idno>
+            <idno type="VID">166661</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A95830)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 166661)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 109:E710[14])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The manner of the proceedings in the courts of the great sessions in the counties of Mountgomery, Denbigh, and Flint; within North-Wales, as it now is. Published by R.V.</title>
+                  <author>Vaughan, Rice.</author>
+               </titleStmt>
+               <extent>[8] p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>printed, 1653.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>R.V. = Rice Vaughan.</note>
+                  <note>Signatures: A⁴.</note>
+                  <note>Annotation on Thomason copy: "Aug: 11th".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Procedure (Law) --  Wales --  Early works to 1800.</term>
+               <term>Wales --  History --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-11</date>
+            <label>Jayne Henley</label>Sampled and proofread</change>
+         <change>
+            <date>2011-11</date>
+            <label>Jayne Henley</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:166661:1" rendition="simple:additions"/>
+            <p>The Manner of the PROCEEDINGS In the Courts of the Great Seſsions In the Counties of <hi>Mountgo<g ref="char:EOLhyphen"/>mery, Denbigh,</hi> and <hi>Flint;</hi> within <hi>North-Wales,</hi> as it now is.</p>
+            <p>
+               <hi>Publiſhed by</hi> R. V.</p>
+            <p>
+               <hi>London.</hi> Printed, 1653.</p>
+         </div>
+         <div type="epistle">
+            <pb facs="tcp:166661:2"/>
+            <pb facs="tcp:166661:2"/>
+            <head>To the Parliament of the Common-VVealth of <hi>England.</hi>
+            </head>
+            <opener>
+               <salute>Right Honorable,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">T</seg>HIS Sheet of Paper touching the manner of Proceedings in the Courts of the great Seſsions in the Counties of <hi>Mountgomery, Denbigh,</hi> and <hi>Flint</hi> in <hi>North-Wales,</hi> coming from an experienced and intelligent Perſon, into my hands, I thought it not unſeaſonable in this juncture of time, when the Reformation of the <hi>Law</hi> is the preſent ſubject of your Conſideration, to offer it to your view and peruſal; you will find in it the <hi>ſhortneſs</hi> and <hi>cleerneſs</hi> of Proceedings, and <hi>eaſineſs</hi> of charge in thoſe parts, which may ſomething conduce to clear and direct the way Reforming what is amiſs in the courſe of Practiſe here: It is not my intent to trouble you fur<g ref="char:EOLhyphen"/>ther, then to pray for Wiſdom for you, anſwerable to the difficulty of the work which you are intruſted with, on behalf of this Common wealth: I am</p>
+            <closer>
+               <signed>Yours, and the Common-wealths Servant. R. V.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:166661:3"/>
+            <head>THE Manner of the Proceedings in the Courts of the great Seſſions in the Counties of <hi>Mountgomery, Denbigh</hi> and <hi>Flint,</hi> within <hi>North-Wales,</hi> as it now is.</head>
+            <p>
+               <seg rend="decorInit">A</seg>Bout three weeks before every great Seſſions (by warrant from the chief Juſtice of the Circuit) a general Writ of Summons is ſent forth by the Pro<g ref="char:EOLhyphen"/>thonotary to the Sheriff, by which the Sheriff is Commanded to proclaim throughout his County, that the general great Seſſions for the County is to be holden, at ſuch a day and place: And that he Summon &amp; give warning to all Juſtices of the Peace, &amp;c. Officers, and other perſons whom it doth concern, that they appear at the day and place li<g ref="char:EOLhyphen"/>mited by the ſaid Writ. Which Proclamation being made, all perſons whatſoever (by the courſe there holden) whether Plaintiffs or Defendants in Suits before depending, or others who intend to Com<g ref="char:EOLhyphen"/>mence any Suits, and alſo all ſuch who ſuſpect any Suits may be brought againſt them, are at their perils, according to the general Summons before mention<g ref="char:EOLhyphen"/>ed, to have their Attornies in Court to proſecute and defend the ſaid Suits.</p>
+            <pb facs="tcp:166661:3"/>
+            <p>The Seſſions being begun, The Plaintiffs who are to Commence Actions, do retain their Attornies, and bring their Actions, either by original Writ (as is uſu<g ref="char:EOLhyphen"/>al for all kind of debts not finable upon the Original) which Writs are made returnable the firſt day of the Seſſions, and dated fifteen dayes before the Seſſions, or elſe by Bill or <hi>Queritur,</hi> which may be either for Debt, Treſpaſs, or upon the Caſe. And whether it be by Original, or elſe by Bill, or <hi>Queritur,</hi> the De<g ref="char:EOLhyphen"/>fendant upon the Original, and firſt Bill, or <hi>Queritur,</hi> and all Proceſs (before appearance) thereupon award<g ref="char:EOLhyphen"/>ed, is ever called in open Court, to come forth and an<g ref="char:EOLhyphen"/>ſwer to the Plaintiff in ſuch or ſuch an Action (as the caſe is) and if by Original, the Defendant being there<g ref="char:EOLhyphen"/>upon called, and not appearing, then a ſecond Writ of Summons is awarded, returnable the next day af<g ref="char:EOLhyphen"/>ter, which being made by the Prothonotary, and ſeal<g ref="char:EOLhyphen"/>ed with the Judicial Seal of the Court, and returned by the Sheriff, the Defendant is thereupon a ſecond time called openly in Court. And if then the De<g ref="char:EOLhyphen"/>fendant appear not, the Plaintiff hath Judgement by Default.</p>
+            <p>So it is alſo, in caſe the Action be brought by <hi>Que<g ref="char:EOLhyphen"/>ritur,</hi> or Bill, ſaving only that Judgement is not in that caſe had before a third Writ of Summons iſſue, and thereupon the Defendant being the third time called, do make Default: whereas if by Original, there needs but one Writ of Summons, beſides the Original it ſelf.</p>
+            <p>The firſt Bill or <hi>Queritur,</hi> commonly bears date the firſt day of the great Seſſions, or the day when the Attorney ſueth it forth, and is returnable the
+<pb facs="tcp:166661:4"/>next day after the date of it; whereupon if the De<g ref="char:EOLhyphen"/>fendant, being openly called in Court, appear not, then a ſecond Writ to Summon the Defendant again is awarded; whereupon if the Defendant being the ſecond time called, appear not, then a third Bill or <hi>Queritur,</hi> to Summon the Defendant, is awarded; whereupon if the Defendant being called a third time, appear not, then the Plaintiff hath Judgement by Default. And theſe Writs are ſucceſſively award<g ref="char:EOLhyphen"/>ed, and made returnable <hi>de die in diem,</hi> and the Judge<g ref="char:EOLhyphen"/>ment had in three dayes at the moſt, in caſes of debt, if the Defendant appear not, but if the Defendant appear, then the Plaintiffs Attorney declares, and up<g ref="char:EOLhyphen"/>on the Defendants pleading, and not confeſſing the Action, then iſſue is joyned the ſame Seſſions, and tryed the next Seſſions after.</p>
+            <p>And it is here to be obſerved, that the awarding of theſe Proceſs, and obtaining of theſe Judgements by Default, depend upon the Sheriffs return of any the ſaid Writs, whether the Actions be brought by Original, or by Bill, or <hi>Queritur:</hi> For if the Sheriff return a Summons (as uſually he doth in all caſes of Debt, becauſe of the general Summons of the Seſ<g ref="char:EOLhyphen"/>ſions upon the Writ firſt before mentioned, by which the Seſſions was proclaimed) then thoſe Judge<g ref="char:EOLhyphen"/>ments are obtained as is before expreſſed. But if the Sheriff return, that the Defendant hath nothing in his Bailiffwick, whereby he may be Summoned (or Attached) as uſually he doth in caſes of Treſpaſs, and upon the Caſe, then a Capias to Arreſt the De<g ref="char:EOLhyphen"/>fendant is awarded; and a Writ of Diſtringas alſo <hi>ad infinitum</hi> in caſes of Treſpaſs, and iſſues thereupon
+<pb facs="tcp:166661:4"/>returned by the Sheriff, untill the Defendant do ap<g ref="char:EOLhyphen"/>pear.</p>
+            <p>Neither is the Defendant in caſe of theſe Judge<g ref="char:EOLhyphen"/>ments thus obtained by Default, any way prejudiced, but by his own Laches or wilfulneſs: For in all caſes of Debt, if he or his Attorney tender an Appearance any day within the Seſſions (or after, with conſent of the Plaintiffs Attorney, before the Debt ſworn) the appearance is accepted. And if he neglect ſo to do, ſo that the Judgement ſtand, yet no Execution can go forth until the Plaintiff do firſt ſwear his Debt, and Damages for the forbearance of it, either before the Judges in open Court, or elſe by ſpecial Commiſſi<g ref="char:EOLhyphen"/>on, in which Caſe alſo execution of the Writ by the Sheriff (though gone forth) is ſtaid in the Attornies hand by Order, till commonly ſix Weeks or two Moneths after the Seſſions, to the end that the De<g ref="char:EOLhyphen"/>fendant may ſatisfie the Debt before the delivery of the Writ to the Sheriff, if he pleaſe.</p>
+            <p>In proſecution of all which kind of Actions in Debt and Treſpaſs (which are almoſt the whole buſi<g ref="char:EOLhyphen"/>neſs of the Seſſions) the parties are not delayed above one or two Seſſions, unleſs by ſome dilatory Pleas and Demurrers (which ſeldom happen) and for taking away whereof, ſome proviſion may be made: and the Charges, unleſs in Caſes where an iſſue is plead<g ref="char:EOLhyphen"/>ed, and tryal thereupon had, not commonly above <hi>thirty ſhillings,</hi> except where the Debt being above <hi>forty pound,</hi> is finable to the State, in caſe the Acti<g ref="char:EOLhyphen"/>on be brought by Original, <hi>which is an Impoſition which the Parliament may take off if they pleaſe,</hi> and a meer burden only to the party who is ſued, when it
+<pb facs="tcp:166661:5"/>cometh to be paid. Neither are the People in pro<g ref="char:EOLhyphen"/>ſecuting and defending theſe Actions, inforced to travel out of their own Counties.</p>
+            <p>Alſo in Caſes of real Actions (which are very few) the proceeding as ſpeedy, unleſs it happen by mul<g ref="char:EOLhyphen"/>tiplicity of Pleadings, occaſioned by the intricacy of Titles, and variety of Conveyances to be pleaded, which for the moſt part is avoided, the Conveyances being given in Evidence.</p>
+            <p>Thoſe Courts of the great Seſſions have a Chan<g ref="char:EOLhyphen"/>cery within themſelves, and have had power to re<g ref="char:EOLhyphen"/>lieve in Caſes of Equity ever ſince <hi>H.</hi> 8. time.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
